@@ -30,7 +30,6 @@ fn main() {
 
 #[cfg(test)]
 mod tests {
-    use crate::Solution;
 
     #[test]
     fn majority_element() {
