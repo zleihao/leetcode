@@ -25,7 +25,12 @@ impl Solution {
     }
 }
 
-fn main() {}
+fn main() {
+    //示例1
+    println!("{:?}", Solution::count_bits(2));
+    //示例2
+    println!("{:?}", Solution::count_bits(5));
+}
 
 #[cfg(test)]
 mod tests {
@@ -33,12 +38,7 @@ mod tests {
 
     #[test]
     fn count_bit() {
-        //示例1
-        let v1 = Solution::count_bits(2);
-        println!("{:?}", v1);
-
-        //示例2
-        let v1 = Solution::count_bits(5);
-        println!("{:?}", v1);
+        assert_eq!(Solution::count_bits(2), [0, 1, 1]);
+        assert_eq!(Solution::count_bits(5), [0, 1, 1, 2, 1, 2]);
     }
 }
