@@ -2,7 +2,7 @@
 
 
 |题目|难度|解答|
-|--|---|:--:|:--:|
+|---|:--:|:--:|
 [1. 两数之和](https://leetcode.cn/problems/two-sum/)|简单|[☺](./rust_leetcode/src/bin/two_sum.rs)|
 [11. 盛最多水的容器](https://leetcode.cn/problems/container-with-most-water/)|中等|[☺](./rust_leetcode/src/bin/max_area.rs)|
 [20. 有效的括号](https://leetcode.cn/problems/valid-parentheses/)|简单|[☺](./rust_leetcode/src/bin/is_valid.rs)|
