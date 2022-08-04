@@ -43,7 +43,7 @@ fn main() {
     // 示例 4：
     let s = "([)]";
     assert_eq!(false, Solution::is_valid(s.to_string()));
-    
+
     // 示例 5：
     let s = "{[]}";
     assert_eq!(true, Solution::is_valid(s.to_string()));
