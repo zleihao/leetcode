@@ -1,7 +1,7 @@
 
-> 全部题目：10
+> 全部题目：11
 >
-> - 🟩 简单：9 
+> - 🟩 简单：10 
 > - 🟨 中等：1
 > - 🟥 困难：0
 
@@ -18,3 +18,4 @@
 [1331.数组序号转换](https://leetcode.cn/problems/rank-transform-of-an-array/)|🟩|[🦀](./rust_leetcode/src/bin/array_rank_transform.rs)|
 [1403. 非递增顺序的最小子序列](https://leetcode.cn/problems/minimum-subsequence-in-non-increasing-order/)|🟩|[🦀](./rust_leetcode/src/bin/min_subsequence.rs)|
 [1408. 数组中的字符串匹配](https://leetcode.cn/problems/string-matching-in-an-array/)|🟩|[🦀](./rust_leetcode/src/bin/string_matching.rs)|
+[1422. 分割字符串的最大得分](https://leetcode.cn/problems/maximum-score-after-splitting-a-string/)|🟩|[🦀](./rust_leetcode/src/bin/max_score.rs)|
