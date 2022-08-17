@@ -1,7 +1,7 @@
 
-> 全部题目：12
+> 全部题目：13
 >
-> - 🟩 简单：11 
+> - 🟩 简单：12 
 > - 🟨 中等：1
 > - 🟥 困难：0
 
@@ -12,6 +12,7 @@
 [11. 盛最多水的容器](https://leetcode.cn/problems/container-with-most-water/)|🟨|[🦀](./rust_leetcode/src/bin/max_area.rs)|
 [20. 有效的括号](https://leetcode.cn/problems/valid-parentheses/)|🟩|[🦀](./rust_leetcode/src/bin/is_valid.rs)|
 [169.多数元素](https://leetcode.cn/problems/majority-element/)|🟩|[🦀](./rust_leetcode/src/bin/majority_element.rs)|
+[268. 丢失的数字](https://leetcode.cn/problems/missing-number/)|🟩|[🦀](./rust_leetcode/src/bin/missing_number.rs)|
 [338.比特位计数](https://leetcode.cn/problems/counting-bits/)|🟩|[🦀](./rust_leetcode/src/bin/count_bits.rs)|
 [485. 最大连续 1 的个数](https://leetcode.cn/problems/max-consecutive-ones/)|🟩|[🦀](./rust_leetcode/src/bin/find_max_consecutive_ones.rs)|
 [704. 二分查找](https://leetcode.cn/problems/binary-search/)|🟩|[🦀](./rust_leetcode/src/bin/search.rs)|
