@@ -1,14 +1,15 @@
 
-> 全部题目：14
+> 全部题目：15
 >
 > - 🟩 简单：13 
-> - 🟨 中等：1
+> - 🟨 中等：2
 > - 🟥 困难：0
 
 
 |题目|难度|解答|
 |---|:--:|:--:|
 [1. 两数之和](https://leetcode.cn/problems/two-sum/)|🟩|[🦀](./rust_leetcode/src/bin/two_sum.rs)|
+[7. 整数反转](https://leetcode.cn/problems/reverse-integer/)|🟨|[🇨](./c_leetcode/reverse.c)|
 [11. 盛最多水的容器](https://leetcode.cn/problems/container-with-most-water/)|🟨|[🦀](./rust_leetcode/src/bin/max_area.rs)|
 [20. 有效的括号](https://leetcode.cn/problems/valid-parentheses/)|🟩|[🦀](./rust_leetcode/src/bin/is_valid.rs)|
 [169.多数元素](https://leetcode.cn/problems/majority-element/)|🟩|[🦀](./rust_leetcode/src/bin/majority_element.rs)|
