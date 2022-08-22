@@ -1,7 +1,7 @@
 
-> 全部题目：16
+> 全部题目：17
 >
-> - 🟩 简单：14 
+> - 🟩 简单：15 
 > - 🟨 中等：2
 > - 🟥 困难：0
 
@@ -12,6 +12,7 @@
 [7. 整数反转](https://leetcode.cn/problems/reverse-integer/)|🟨|[🇨](./c_leetcode/reverse.c)|
 [11. 盛最多水的容器](https://leetcode.cn/problems/container-with-most-water/)|🟨|[🦀](./rust_leetcode/src/bin/max_area.rs)|
 [20. 有效的括号](https://leetcode.cn/problems/valid-parentheses/)|🟩|[🦀](./rust_leetcode/src/bin/is_valid.rs)|
+[58. 最后一个单词的长度](https://leetcode.cn/problems/length-of-last-word/)|🟩|[🦀](./rust_leetcode/src/bin/length_of_last_word.rs)[🇨](./c_leetcode/lengthOfLastWord.c)|
 [169.多数元素](https://leetcode.cn/problems/majority-element/)|🟩|[🦀](./rust_leetcode/src/bin/majority_element.rs)[🇨](./c_leetcode/majorityElement.c)|
 [268. 丢失的数字](https://leetcode.cn/problems/missing-number/)|🟩|[🦀](./rust_leetcode/src/bin/missing_number.rs)|
 [338.比特位计数](https://leetcode.cn/problems/counting-bits/)|🟩|[🦀](./rust_leetcode/src/bin/count_bits.rs)|
