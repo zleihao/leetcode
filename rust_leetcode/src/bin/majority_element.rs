@@ -30,7 +30,7 @@ fn main() {
 
 #[cfg(test)]
 mod tests {
-
+    use crate::Solution;
     #[test]
     fn majority_element() {
         let v1 = vec![3, 2, 3];

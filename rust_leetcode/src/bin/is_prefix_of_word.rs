@@ -19,7 +19,6 @@ impl Solution {
 }
 
 fn main() {
-    use crate::Solution;
     let sentence = "i am tired".to_string();
     let search_word = "you".to_string();
     println!("{}", Solution::is_prefix_of_word(sentence, search_word));

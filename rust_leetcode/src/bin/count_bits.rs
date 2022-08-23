@@ -33,7 +33,7 @@ fn main() {
 
 #[cfg(test)]
 mod tests {
-
+    use crate::Solution;
     #[test]
     fn count_bit() {
         assert_eq!(Solution::count_bits(2), [0, 1, 1]);

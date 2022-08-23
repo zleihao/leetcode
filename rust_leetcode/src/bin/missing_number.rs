@@ -7,7 +7,6 @@ impl Solution {
 }
 
 fn main() {
-    use crate::Solution;
     let nums = vec![0, 1];
 
     println!("{}", Solution::missing_number(nums));
