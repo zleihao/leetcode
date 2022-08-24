@@ -1,7 +1,7 @@
 
-> 全部题目：19
+> 全部题目：20
 >
-> - 🟩 简单：17 
+> - 🟩 简单：18 
 > - 🟨 中等：2
 > - 🟥 困难：0
 
@@ -26,4 +26,5 @@
 [1422. 分割字符串的最大得分](https://leetcode.cn/problems/maximum-score-after-splitting-a-string/)|🟩|[🦀](./rust_leetcode/src/bin/max_score.rs)|
 [1450. 在既定时间做作业的学生人数](https://leetcode.cn/problems/number-of-students-doing-homework-at-a-given-time/)|🟩|[🦀](./rust_leetcode/src/bin/busy_student.rs)|
 [1455. 检查单词是否为句中其他单词的前缀](https://leetcode.cn/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/)|🟩|[🦀](./rust_leetcode/src/bin/is_prefix_of_word.rs)|
+[1460. 通过翻转子数组使两个数组相等](https://leetcode.cn/problems/make-two-arrays-equal-by-reversing-sub-arrays/)|🟩|[🦀](./rust_leetcode/src/bin/can_be_equal.rs)|
 [1656. 设计有序流](https://leetcode.cn/problems/design-an-ordered-stream/)|🟩|[🦀](./rust_leetcode/src/bin/design_an_ordered_stream.rs)|
