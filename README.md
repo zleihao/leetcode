@@ -28,4 +28,5 @@
 [1455. 检查单词是否为句中其他单词的前缀](https://leetcode.cn/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/)|🟩|[🦀](./rust_leetcode/src/bin/is_prefix_of_word.rs)|
 [1460. 通过翻转子数组使两个数组相等](https://leetcode.cn/problems/make-two-arrays-equal-by-reversing-sub-arrays/)|🟩|[🦀](./rust_leetcode/src/bin/can_be_equal.rs)|
 [1464. 数组中两元素的最大乘积](https://leetcode.cn/problems/maximum-product-of-two-elements-in-an-array/)|🟩|[🦀](./rust_leetcode/src/bin/max_product.rs)[🇨](./c_leetcode/maxProduct.c)|
+[1470. 重新排列数组](https://leetcode.cn/problems/shuffle-the-array/)|🟩|[🦀](./rust_leetcode/src/bin/shuffle.rs)[🇨](./c_leetcode/shuffle.c)|
 [1656. 设计有序流](https://leetcode.cn/problems/design-an-ordered-stream/)|🟩|[🦀](./rust_leetcode/src/bin/design_an_ordered_stream.rs)|
