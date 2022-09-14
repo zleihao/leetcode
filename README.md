@@ -29,4 +29,5 @@
 [1460. 通过翻转子数组使两个数组相等](https://leetcode.cn/problems/make-two-arrays-equal-by-reversing-sub-arrays/)|🟩|[🦀](./rust_leetcode/src/bin/can_be_equal.rs)|
 [1464. 数组中两元素的最大乘积](https://leetcode.cn/problems/maximum-product-of-two-elements-in-an-array/)|🟩|[🦀](./rust_leetcode/src/bin/max_product.rs)[🇨](./c_leetcode/maxProduct.c)|
 [1470. 重新排列数组](https://leetcode.cn/problems/shuffle-the-array/)|🟩|[🦀](./rust_leetcode/src/bin/shuffle.rs)[🇨](./c_leetcode/shuffle.c)|
+[1619. 删除某些元素后的数组均值](https://leetcode.cn/problems/mean-of-array-after-removing-some-elements/)|🟩|[🦀](./rust_leetcode/src/bin/trim_mean.rs)|
 [1656. 设计有序流](https://leetcode.cn/problems/design-an-ordered-stream/)|🟩|[🦀](./rust_leetcode/src/bin/design_an_ordered_stream.rs)|
