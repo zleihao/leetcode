@@ -1,7 +1,7 @@
 
-> 全部题目：21
+> 全部题目：22
 >
-> - 🟩 简单：19 
+> - 🟩 简单：20 
 > - 🟨 中等：2
 > - 🟥 困难：0
 
@@ -30,4 +30,5 @@
 [1464. 数组中两元素的最大乘积](https://leetcode.cn/problems/maximum-product-of-two-elements-in-an-array/)|🟩|[🦀](./rust_leetcode/src/bin/max_product.rs)[🇨](./c_leetcode/maxProduct.c)|
 [1470. 重新排列数组](https://leetcode.cn/problems/shuffle-the-array/)|🟩|[🦀](./rust_leetcode/src/bin/shuffle.rs)[🇨](./c_leetcode/shuffle.c)|
 [1619. 删除某些元素后的数组均值](https://leetcode.cn/problems/mean-of-array-after-removing-some-elements/)|🟩|[🦀](./rust_leetcode/src/bin/trim_mean.rs)|
+[1624. 两个相同字符之间的最长子字符串](https://leetcode.cn/problems/largest-substring-between-two-equal-characters/)|🟩|[🦀](./rust_leetcode/src/bin/max_length_between_equal_characters.rs)[🇨](./c_leetcode/maxLengthBetweenEqualCharacters.c)|
 [1656. 设计有序流](https://leetcode.cn/problems/design-an-ordered-stream/)|🟩|[🦀](./rust_leetcode/src/bin/design_an_ordered_stream.rs)|
