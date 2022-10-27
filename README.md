@@ -1,7 +1,7 @@
 
-> 全部题目：23
+> 全部题目：24
 >
-> - 🟩 简单：21 
+> - 🟩 简单：22 
 > - 🟨 中等：2
 > - 🟥 困难：0
 
@@ -32,4 +32,5 @@
 [1619. 删除某些元素后的数组均值](https://leetcode.cn/problems/mean-of-array-after-removing-some-elements/)|🟩|[🦀](./rust_leetcode/src/bin/trim_mean.rs)|
 [1624. 两个相同字符之间的最长子字符串](https://leetcode.cn/problems/largest-substring-between-two-equal-characters/)|🟩|[🦀](./rust_leetcode/src/bin/max_length_between_equal_characters.rs)[🇨](./c_leetcode/maxLengthBetweenEqualCharacters.c)|
 [1656. 设计有序流](https://leetcode.cn/problems/design-an-ordered-stream/)|🟩|[🦀](./rust_leetcode/src/bin/design_an_ordered_stream.rs)|
+[1822. 数组元素积的符号](https://leetcode.cn/problems/sign-of-the-product-of-an-array/)|🟩|[🇨](./c_leetcode/arraySign.c)|
 [面试题 01.02. 判定是否互为字符重排](https://leetcode.cn/problems/check-permutation-lcci/)|🟩|[🦀](./rust_leetcode/src/bin/check_permutation.rs)|
