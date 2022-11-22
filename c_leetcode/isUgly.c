@@ -21,13 +21,13 @@ bool isUgly(int n)
 
 int main()
 {
-    //Ê¾Àý1
+    //ç¤ºä¾‹1
     assert(isUgly(6) == 1);
 
-    //Ê¾Àý2
+    //ç¤ºä¾‹2
     assert(isUgly(1) == 1);
 
-    //Ê¾Àý3
+    //ç¤ºä¾‹3
     assert(isUgly(14) == 0);
 
     return 0;
