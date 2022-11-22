@@ -1,7 +1,7 @@
 
-> 全部题目：24
+> 全部题目：25
 >
-> - 🟩 简单：22 
+> - 🟩 简单：23 
 > - 🟨 中等：2
 > - 🟥 困难：0
 
@@ -15,6 +15,7 @@
 [58. 最后一个单词的长度](https://leetcode.cn/problems/length-of-last-word/)|🟩|[🦀](./rust_leetcode/src/bin/length_of_last_word.rs)[🇨](./c_leetcode/lengthOfLastWord.c)|
 [70. 爬楼梯](https://leetcode.cn/problems/climbing-stairs/)|🟩|[🦀](./rust_leetcode/src/bin/climb_stairs.rs)|
 [169.多数元素](https://leetcode.cn/problems/majority-element/)|🟩|[🦀](./rust_leetcode/src/bin/majority_element.rs)[🇨](./c_leetcode/majorityElement.c)|
+[263. 丑数](https://leetcode.cn/problems/ugly-number/)|🟩|[🇨](./c_leetcode/isUgly.c)|
 [268. 丢失的数字](https://leetcode.cn/problems/missing-number/)|🟩|[🦀](./rust_leetcode/src/bin/missing_number.rs)|
 [338.比特位计数](https://leetcode.cn/problems/counting-bits/)|🟩|[🦀](./rust_leetcode/src/bin/count_bits.rs)|
 [485. 最大连续 1 的个数](https://leetcode.cn/problems/max-consecutive-ones/)|🟩|[🦀](./rust_leetcode/src/bin/find_max_consecutive_ones.rs)|
