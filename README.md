@@ -1,7 +1,7 @@
 
-> 全部题目：26
+> 全部题目：27
 >
-> - 🟩 简单：23 
+> - 🟩 简单：24 
 > - 🟨 中等：3
 > - 🟥 困难：0
 
@@ -34,5 +34,6 @@
 [1624. 两个相同字符之间的最长子字符串](https://leetcode.cn/problems/largest-substring-between-two-equal-characters/)|🟩|[🦀](./rust_leetcode/src/bin/max_length_between_equal_characters.rs)[🇨](./c_leetcode/maxLengthBetweenEqualCharacters.c)|
 [1656. 设计有序流](https://leetcode.cn/problems/design-an-ordered-stream/)|🟩|[🦀](./rust_leetcode/src/bin/design_an_ordered_stream.rs)|
 [1769. 移动所有球到每个盒子所需的最小操作数](https://leetcode.cn/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/)|🟨|[🇨](./c_leetcode/minOperations.c)|
+[1796. 字符串中第二大的数字](https://leetcode.cn/problems/second-largest-digit-in-a-string/)|🟩|[🇨](./c_leetcode/secondHighest.c)|
 [1822. 数组元素积的符号](https://leetcode.cn/problems/sign-of-the-product-of-an-array/)|🟩|[🇨](./c_leetcode/arraySign.c)|
 [面试题 01.02. 判定是否互为字符重排](https://leetcode.cn/problems/check-permutation-lcci/)|🟩|[🦀](./rust_leetcode/src/bin/check_permutation.rs)|
