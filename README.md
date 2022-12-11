@@ -1,7 +1,7 @@
 
-> 全部题目：27
+> 全部题目：28
 >
-> - 🟩 简单：24 
+> - 🟩 简单：25 
 > - 🟨 中等：3
 > - 🟥 困难：0
 
@@ -36,4 +36,5 @@
 [1769. 移动所有球到每个盒子所需的最小操作数](https://leetcode.cn/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/)|🟨|[🇨](./c_leetcode/minOperations.c)|
 [1796. 字符串中第二大的数字](https://leetcode.cn/problems/second-largest-digit-in-a-string/)|🟩|[🇨](./c_leetcode/secondHighest.c)|
 [1822. 数组元素积的符号](https://leetcode.cn/problems/sign-of-the-product-of-an-array/)|🟩|[🇨](./c_leetcode/arraySign.c)|
+[1827. 最少操作使数组递增](https://leetcode.cn/problems/minimum-operations-to-make-the-array-increasing/)|🟩|[🇨](./c_leetcode/min_operations.c)|
 [面试题 01.02. 判定是否互为字符重排](https://leetcode.cn/problems/check-permutation-lcci/)|🟩|[🦀](./rust_leetcode/src/bin/check_permutation.rs)|
